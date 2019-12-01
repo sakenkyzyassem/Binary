@@ -11,7 +11,7 @@
 
 ## How to use
 
-1. In git bash type `git clone https://github.com/sakenkyzyassem/Binary'
+1. In git bash type `git clone https://github.com/sakenkyzyassem/Binary`
 2. In your NAME.cpp file (NAME = name of your editing file) `#include <binary.h>`
 3. Initialize a binary
 ```
