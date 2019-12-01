@@ -25,7 +25,7 @@ binary b1 = 0001;
 binary b2 = 0010;
 
 if (b1 > b2) { cout<<b1<<"is larger than"<<b2<<"\n"; }
-else if (b1 < b2) { cout<<b1<<"is samller than"<<b2<<"\n";
+else if (b1 < b2) { cout<<b1<<"is smaller than"<<b2<<"\n";
 else { cout<<b1<<"and"<<b2<<"are equal\n";    #if(b1 == b2)
 ```
 --------------------------------------------------------------------
