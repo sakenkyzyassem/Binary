@@ -3,7 +3,7 @@
 
 ### Comparators
 
-* Comparators defined are '<' (i.e. less than), '>' (i.e. larger than)б '==' (i.e. equal to).
+* Comparators defined are '<' (i.e. less than), '>' (i.e. larger than), '==' (i.e. equal to).
 
 ### Functions
 
