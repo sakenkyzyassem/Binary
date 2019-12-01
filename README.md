@@ -28,3 +28,14 @@ if (b1 > b2) { cout<<b1<<"is larger than"<<b2<<"\n"; }
 else if (b1 < b2) { cout<<b1<<"is samller than"<<b2<<"\n";
 else { cout<<b1<<"and"<<b2<<"are equal\n";    #if(b1 == b2)
 ```
+--------------------------------------------------------------------
+```
+binary b3 = 0011, b4 = 0100;
+cout<<b3.abs()<<"\n";     #output is 3
+cout<<b4.abs()<<"\n";     #output is 4
+```
+
+#### Upcoming changes:
+* Negative number detection (1st bit is 1)
+* Negation
+* Operations: '+', '-', '*', '/'
